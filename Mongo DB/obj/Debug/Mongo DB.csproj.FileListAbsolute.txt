@@ -1,0 +1,61 @@
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\mongocrypt.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Mongo DB.exe.config
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Mongo DB.exe
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Mongo DB.pdb
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.Core.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\DnsClient.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Bson.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Driver.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\SharpCompress.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Snappier.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Buffers.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Memory.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Security.AccessControl.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\ZstdSharp.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.Core.pdb
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.Core.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\DnsClient.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Bson.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Driver.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Snappier.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Buffers.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Memory.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Security.AccessControl.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo_DB.Form1.resources
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo_DB.Properties.Resources.resources
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.csproj.CopyComplete
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.exe
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\obj\Debug\Mongo DB.pdb
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\StackExchange.Redis.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.IO.Pipelines.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Threading.Channels.dll
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\StackExchange.Redis.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.IO.Pipelines.xml
+C:\Users\usuario\Documents\Programacion\C#\Mongo DB\Mongo DB\bin\Debug\System.Threading.Channels.xml
